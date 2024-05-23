@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c2067656b68b94b4380f3211b5476fd9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 275516
+  packageName: VTKUnity-MedicalVolumeViewer
+  packageVersion: 1.0
+  assetPath: Assets/Scripts/Core/DepthPeelingObject.cs
+  uploadId: 640110

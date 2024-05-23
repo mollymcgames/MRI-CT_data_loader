@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 48319a6d548d73441be09e2c70e727c2
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 275516
+  packageName: VTKUnity-MedicalVolumeViewer
+  packageVersion: 1.0
+  assetPath: Assets/Scenes/SampleScene.unity
+  uploadId: 640110

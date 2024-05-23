@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0879fe941838e8543addea203e593354
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 275516
+  packageName: VTKUnity-MedicalVolumeViewer
+  packageVersion: 1.0
+  assetPath: Assets/Documentation/VTKUnity-MedicalVolumeViewer-UsersGuide.pdf
+  uploadId: 640110

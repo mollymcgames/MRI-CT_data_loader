@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fdc61181465ee7b4e890001e16ba2e67
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 275516
+  packageName: VTKUnity-MedicalVolumeViewer
+  packageVersion: 1.0
+  assetPath: Assets/VTKUnity-Activiz/Plugin/vtkOutputWindow.log
+  uploadId: 640110

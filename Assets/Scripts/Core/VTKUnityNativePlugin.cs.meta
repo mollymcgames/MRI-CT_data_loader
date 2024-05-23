@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: eaa2d6a4b32226f4ebd8c7feb900a176
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 275516
+  packageName: VTKUnity-MedicalVolumeViewer
+  packageVersion: 1.0
+  assetPath: Assets/Scripts/Core/VTKUnityNativePlugin.cs
+  uploadId: 640110

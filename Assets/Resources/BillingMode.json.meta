@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: be6592b22f88b2d4d9e49b5707c364a0
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 275516
+  packageName: VTKUnity-MedicalVolumeViewer
+  packageVersion: 1.0
+  assetPath: Assets/Resources/BillingMode.json
+  uploadId: 640110

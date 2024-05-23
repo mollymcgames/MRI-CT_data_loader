@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0adf81bff964d8d40968c340e681b91a
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 275516
+  packageName: VTKUnity-MedicalVolumeViewer
+  packageVersion: 1.0
+  assetPath: Assets/StreamingAssets/headsq.vti
+  uploadId: 640110

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 57192dfdd83a7a54399a1dc07fa81df4
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 275516
+  packageName: VTKUnity-MedicalVolumeViewer
+  packageVersion: 1.0
+  assetPath: Assets/VTKUnity-Activiz/Plugin/VTKNativePluginLiteScene.lib
+  uploadId: 640110
